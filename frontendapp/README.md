@@ -1,27 +1,15 @@
-# Frontendapp
+Create User:-
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+![createUser](https://user-images.githubusercontent.com/81008413/144743625-fd2ee3bc-8bd3-49a2-bcdb-39b9fe54faf4.png)
 
-## Development server
+Show User:-
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![ShowUser](https://user-images.githubusercontent.com/81008413/144743621-f2a95237-f114-4ead-8ca3-8387714b74d5.png)
 
-## Code scaffolding
+Update User:-
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![UpdateUser](https://user-images.githubusercontent.com/81008413/144743622-6a2ca56d-6d29-46f2-8edb-034ecb9ea32b.png)
 
-## Build
+Delete User:-
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![deleteUser](https://user-images.githubusercontent.com/81008413/144743623-f933b1d4-9907-44a4-af7e-de8d2397ddb4.png)
